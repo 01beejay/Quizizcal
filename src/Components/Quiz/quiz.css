@@ -1,0 +1,97 @@
+.container {
+  width: 640px;
+  padding: 40px 50px;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  margin-top: 100px;
+  gap: 20px;
+  background-color: whitesmoke;
+  border-radius: 10px;
+  color: #262626;
+  box-shadow: 1px 2px 1px 4px #fff;
+}
+.container h1 {
+  font-family: "Lobster", sans-serif;
+  font-weight: bold;
+  font-size: 50px;
+}
+
+.contianer hr {
+  height: 3px;
+  border: none;
+  background-color: #707070;
+}
+
+.container h2 {
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.container ul li {
+  display: flex;
+  padding-left: 15px;
+  font-size: 17px;
+  height: 42px;
+  margin-bottom: 20px;
+  border-radius: 7px;
+}
+
+.option {
+  width: 700px;
+  height: 42px;
+  border: 1px solid #686868;
+  border-radius: 7px;
+  background-color: whitesmoke;
+}
+
+.btns {
+  display: flex;
+}
+
+.button_next {
+  margin: auto;
+  width: 200px;
+  height: 35px;
+  color: whitesmoke;
+  background-color: #533f9a;
+  font-size: 17px;
+  font-weight: 500;
+  border-radius: 8px;
+}
+
+.container .index {
+  margin: auto;
+  font-size: 17px;
+}
+
+.container .correct {
+  background-color: #dffff2;
+  border-color: #00d397;
+  font-size: 21px;
+}
+.container .wrong {
+  background-color: #ffebeb;
+  border-color: #ff4a4a;
+  font-weight: 700;
+  font-size: 21px;
+}
+
+.score {
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.good_grade {
+  font-size: 30px;
+  font-weight: bold;
+  color: green;
+  font-style: italic;
+}
+
+.bad_grade {
+  font-size: 30px;
+  font-weight: 900;
+  color: red;
+  font-style: italic;
+}
