@@ -96,9 +96,6 @@
 }
 
 @media (min-width: 320px) and (max-width: 359px) {
-  body {
-    background-image: linear-gradient(#d8c7ff, #19006c);
-  }
   .container {
     width: 200px;
     height: 500px;
@@ -118,9 +115,6 @@
   }
 }
 @media (min-width: 360px) and (max-width: 374px) {
-  body {
-    background-image: linear-gradient(#d8c7ff, #19006c);
-  }
   .container {
     width: 200px;
     margin-top: 25px;
@@ -144,9 +138,6 @@
 }
 
 @media (min-width: 375px) and (max-width: 389px) {
-  body {
-    background-image: linear-gradient(#d8c7ff, #19006c);
-  }
   .container {
     width: 250px;
     margin-top: 25px;
@@ -168,9 +159,6 @@
   }
 }
 @media (min-width: 390px) and (max-width: 413px) {
-  body {
-    background-image: linear-gradient(#d8c7ff, #19006c);
-  }
   .container {
     width: 260px;
     margin-top: 75px;
@@ -194,9 +182,6 @@
 }
 
 @media (min-width: 414px) and (max-width: 767px) {
-  body {
-    background-image: linear-gradient(#d8c7ff, #19006c);
-  }
   .container {
     width: 280px;
     margin-top: 65px;
@@ -219,9 +204,6 @@
   }
 }
 @media (min-width: 768px) and (max-width: 1023px) {
-  body {
-    background-image: linear-gradient(#d8c7ff, #19006c);
-  }
   .container {
     width: 600px;
     margin-top: 135px;
